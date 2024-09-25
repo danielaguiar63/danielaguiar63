@@ -42,6 +42,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/danielaguiar63/danielaguiar63/output/snake.svg" alt="Snake animation" />
-
-###
